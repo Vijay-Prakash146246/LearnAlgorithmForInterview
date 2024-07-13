@@ -53,7 +53,7 @@ class BinarySearch
 	public static void main(String[] args) 
 	{
 		int arr[] = {1, 2, 3, 4, 5};
-		int k = 5;
-		System.out.println(new BinarySearch ().binarysearch(arr, k));
+		int k = 4;
+		new BinarySearch ().binarysearch(arr, k);
 	}
 }
