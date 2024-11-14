@@ -2,7 +2,7 @@ package com.DsaAlgo.CompanyDSA.PayPal;
 
 import java.util.HashSet;
 
-public class ReverseSinglyLinkedList
+public class IntersectionOfTwoArraysWithDistinctElements
 {
     //Intersection of Two arrays with Distinct Elements
 
